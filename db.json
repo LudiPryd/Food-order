@@ -1,0 +1,82 @@
+{
+  "foods": [
+    {
+      "name": "MIE GACOAN LV 0",
+      "imageUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/8498cf92-b3bc-4a42-889f-f09f7617a2ce_MNU_109_20230908151521.jpg?auto=format",
+      "price": 11500,
+      "desc": "Mie dengan cita rasa manis gurih tidak pedas"
+    },
+    {
+      "name": "MIE GACOAN LV 1",
+      "imageUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/8498cf92-b3bc-4a42-889f-f09f7617a2ce_MNU_109_20230908151521.jpg?auto=format",
+      "price": 11500,
+      "desc": "Mie dengan cita rasa manis gurih dengan tingkat kepedasan level 1"
+    },
+    {
+      "name": "MIE GACOAN LV 2",
+      "imageUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/8498cf92-b3bc-4a42-889f-f09f7617a2ce_MNU_109_20230908151521.jpg?auto=format",
+      "price": 11500,
+      "desc": "Mie dengan cita rasa manis gurih dengan tingkat kepedasan level 2"
+    },
+    {
+      "name": "MIE SUIT",
+      "imageUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/38c1dcb8-1fcc-470c-8193-581d057be123_MNU_122_20230909093446.jpg?auto=format",
+      "price": 11500,
+      "desc": "Mie asin gurih tidak pedas"
+    },
+    {
+      "name": "MIE HOMPIMPA LV 1",
+      "imageUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/38c1dcb8-1fcc-470c-8193-581d057be123_MNU_122_20230909093446.jpg?auto=format",
+      "price": 11500,
+      "desc": "Mie asin gurih dengan pedas level 1"
+    },
+    {
+      "name": "MIE HOMPIMPA LV 2",
+      "imageUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/38c1dcb8-1fcc-470c-8193-581d057be123_MNU_122_20230909093446.jpg?auto=format",
+      "price": 11500,
+      "desc": "Mie asin gurih dengan pedas level 2"
+    },
+    {
+      "name": "UDANG KEJU",
+      "imageUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/de7ef892-4611-42ca-8d9d-b1ff78b030ac_MNU_130_20230909111508.jpg?auto=format",
+      "price": 10000,
+      "desc": "Pentol udang dengan isian keju lumer"
+    },
+    {
+      "name": "UDANG RAMBUTAN",
+      "imageUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/1bc77f05-ebd7-42a5-9e78-7cb2d49900d0_MNU_131_20230909111703.jpg?auto=format",
+      "price": 10000,
+      "desc": "Pentol udang dengan balutan kulit pangsit yg renyah"
+    },
+    {
+      "name": "SIOMAY AYAM",
+      "imageUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/6037d228-cbb9-4210-8e30-004de2f468d9_MNU_126_20230909100329.jpg?auto=format",
+      "price": 10000,
+      "desc": "Siomay disajikan dengan saus spesial"
+    },
+    {
+      "name": "LUMPIA UDANG",
+      "imageUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/3206b44d-0eca-4c89-9704-bde6e2075fd2_MNU_108_20230908151210.jpg?auto=format",
+      "price": 10000,
+      "desc": "Lumpia udang"
+    },
+    {
+      "name": "PANGSIT GORENG",
+      "imageUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/8a139ae9-afa3-45ce-9d02-359b91e1c0dd_MNU_125_20230909100032.jpg?auto=format",
+      "price": 11000,
+      "desc": "Pangsit isi 5"
+    },
+    {
+      "name": "AIR MINERAL",
+      "imageUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/a17cda23-2991-4c37-bbfd-460a4d6acad7_MNU_100_20230908133604.jpg?auto=format",
+      "price": 4500,
+      "desc": null
+    },
+    {
+      "name": "ES TEH",
+      "imageUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/28ca5783-3bfd-4927-8898-f460b8e8a3f4_MNU_127_20230909103444.jpg?auto=format",
+      "price": 4500,
+      "desc": null
+    }
+  ]
+}
