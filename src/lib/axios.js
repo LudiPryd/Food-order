@@ -1,5 +1,5 @@
 import Axios from 'axios';
 
 export const axiosInstance = Axios.create({
-  baseURL: 'http://localhost:3000',
+  baseURL: 'https://my-json-server.typicode.com/LudiPryd/food-api',
 });
